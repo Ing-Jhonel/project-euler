@@ -7,7 +7,7 @@ using namespace std;
 
 int main(){
 	
-	int n=1020;
+	int n=1000;
 	for(int a=0; a<n; a++){
 		for(int b=0; b<n; b++){
 			int c=n-a-b;
